@@ -68,4 +68,57 @@ Don't you listen to music in your car?
 
 ## 2.3 Circle the correct demonstrative to complete the sentences.
 
-1. THESE/THOSE `` are my co-workers
+1. (THESE / THOSE) `THOSE` are my co-workers
+
+2. (THIS / THAT) `THIS` is my brand-new laptop over there.
+
+3. (THAT / THESE) `THAT` isn't your room.
+
+4. (THIS / THOSE) `THOSE` men are the directors of the company.
+
+5. (THAT / THESE) `THESE` are my hamsters.
+
+6. (THIS / THAT) `THIST` is my fiancée.
+
+7. (THESE / THOSE) `THESE` are the new rules on that board.
+
+## 2.4 Change sentences to plural and use the correct demonstrative.
+
+1. This orange is very nice. <p>
+`These` oranges are very nice.
+
+2. That student is writing an essay. <p>
+`Those` students are writing an essay.
+
+3. That house is near the beach. <p>
+
+4. This book is really difficult. <p>
+
+5. This lesson is very difficult. <p>
+
+6. That computer is old. <p>
+
+## 2.5 Form sentences using the words and this, that, these or those.
+
+![lesson2](img/english-words2.png)
+![lesson2](img/english-words3.png)
+
+1. `THIS` is my backpack.
+
+2. `THAT` is my briefcase.
+
+3. `THOSE` are my grandparents.
+
+4. `THESE` are my friends.
+
+5. `THIS` is a storybook.
+
+6. `THIS` is my ice cream.
+
+7. `THESE` are cellphones.
+
+8. `THAT` is a blue car.
+
+9. `THAT` is my house.
+
+10. `THIS` is a black pen.
