@@ -65,3 +65,7 @@ Don't you listen to music in your car?
 5. `AN` apple a day keeps the doctor away.
 
 6. `AN` orange juice is my favorite breakfast drink.
+
+## 2.3 Circle the correct demonstrative to complete the sentences.
+
+1. THESE/THOSE `` are my co-workers

@@ -9,7 +9,7 @@ Good afternoon, no i don't.
 No, i wouldn't.
 
 3. Hi, how are you? <p>
-Hi, i'm fine and you?
+Hi! i'm fine, thanks and you?
 
 4. Do you work every morning? <p>
 Yes, i do.
@@ -106,7 +106,7 @@ Excuse me, do you speak English?
 Yes, i do.
 
 5. Carlos, você estou história ontem? <p>
-Carlos, do you study History yesterday?
+Carlos, did you study history yesterday?
 
 6. Não, eu não estudei. <p>
 No, i don't.
@@ -130,7 +130,7 @@ Will you travel tommorow? <p>
 Yes, i will.
 
 13. Você gosta de basquete? <p>
-Do you like basket?
+Do you like basketball?
 
 14. Não, eu não gosto. <p>
 No, i don't.
@@ -142,7 +142,7 @@ Did you buy milk?
 Yes, i did.
 
 17. Você finalizou o exercício? <p>
-Do you finish exercise?
+Did you finish the exercise?
 
 18. Sim, finalizei. <p>
-Yes, i do.
+Yes, i did.
