@@ -100,8 +100,8 @@ Don't you listen to music in your car?
 
 ## 2.5 Form sentences using the words and this, that, these or those.
 
-![lesson2](img/english-words2.png)
-![lesson2](img/english-words3.png)
+![lesson2](/Class/img/english-words2.png)
+![lesson2](/Class/img/english-words3.png)
 
 1. `THIS` is my backpack.
 

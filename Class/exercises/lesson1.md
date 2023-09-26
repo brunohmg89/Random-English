@@ -59,7 +59,7 @@ Did you play soccer yesterday?
 
 ## 1.4 Complete the questions with the following verbs and answer them
 
-![lesson1](img/english-words.png)
+![lesson1](/Class/img/english-words.png)
 
 1. Do you `EAT` spachetti with red souce? <p>
 Yes, i do.
