@@ -15,22 +15,22 @@ On a final note, Beyoncé is talented and inspiring artist who has had a major i
 ## Questions
 
 1. Who is Beyoncé? <p>
-É uma famosa cantora, dançarina e atriz dos Estados Unidos.
+Beyoncé is a famous singer, dancer, and actress from the United States.
 
 2. When was she born? <p>
-4 de Setembro de 1981.
+She was born on September 4, 1981.
 
 3. Where is she from? <p>
-Houston, Texas.
+Houston, Texas. (**IMCOMPLETE - She is from Houston, Texas.**)
 
 4. How did she her career? <p>
-Começou participando de um grupo de mulheres chamado Destiny's Child.
+Beyoncé started her career as a member of the girl group Destiny's Child.
 
 5. Why people love her? <p>
-Porque ela é talentosa.
+People love Beyoncé because of the her powerful voice, amazing dance moves, and her beautiful personality.
 
 6. What is she know for? <p>
-Por suas performances enérgeticas e espetaculares.
+She is know for her energetic and show-stopping performances.
 
 7. What can you do to know more about her? <p>
-Ouvindos suas músicas e assistindo suas performances online.
+You can listen to her music ow watch some of her performances online.

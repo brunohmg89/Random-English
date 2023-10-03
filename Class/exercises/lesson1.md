@@ -52,7 +52,7 @@ Would you run today?
 Will you study English next week?
 
 3. PRESENT - excuse me / speak / Italian <p>
-Excuse me, do you speak Italian
+Excuse me, do you speak Italian?
 
 4. PAST - play / soccer / yesterday <p>
 Did you play soccer yesterday?

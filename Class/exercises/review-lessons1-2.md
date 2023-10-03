@@ -13,19 +13,19 @@
 ## R.1.2 - Crie perguntas de acordo com as frases abaixo:
 
 1. I Like to swim. <p>
-Do you like to swim?
+`DO` you like to swim?
 
 2. They visited Paris last year. <p>
-Did they visit Paris last year?
+`DID` they visit Paris last year?
 
 3. I will call you later. <p>
-Will i call you later?
+`WILL` i call you later?
 
 4. He would like some coffee. <p>
-Would he like some coffee?
+`WOULD` he like some coffee?
 
 5. We enjoy playing board games. <p>
-We do enjoy playing board games?
+We `DO` enjoy playing board games? (**CORRECT - Do we**)
 
 ## R.1.3 - Reescreva as perguntas em forma negativa.
 
@@ -43,11 +43,11 @@ Didn't she watch the movie last night?
 
 ## R.1.4 - Escolha o melhor pronome demonstrativo para completar a frase.
 
-1. I don't like `THOSE` cars. (this / that / these / those) (**Far**)
+1. I don't like `THOSE` cars. (this / that / these / those) (**Far**) 
 
-2. Can you pass me `THAT` books, please? (this / that / these / those) (**Close**)
+2. Can you pass me `THAT` books, please? (this / that / these / those) (**Close**) (**CORRECT - THESE**)
 
-3. `THAT` house over there is painted blue. (this / that / these / those) (**Far**)
+3. `THAT` house over there is painted blue. (this / that / these / those) (**Far**) 
 
 4. I bought `THESE` new shoes yesterday. (this / that / these / those) (**Close**)
 

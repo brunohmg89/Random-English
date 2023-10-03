@@ -131,8 +131,10 @@ It eats grass.
 He sings a lullaby song to our doughter.
 
 6. I swim in the pool every day. (**He**) <p>
+He Swims in the pool every day.
 
 7. I run a marathon. (**She**) <p>
+She runnies a marathon.
 
 8. We sleep late. (**He**) <p>
-
+He sleeps late.

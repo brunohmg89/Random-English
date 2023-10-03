@@ -58,19 +58,19 @@ Don't you listen to music in your car?
 
 2. Can you hand me `THE` book on the top shelf?
 
-3. My sister is `THE` amazing artist.
+3. My sister is `THE` amazing artist. (**CORRECT - AN**)
 
-4. Please pass me `A` salt and pepper.
+4. Please pass me `A` salt and pepper. (**CORRECT - THE**)
 
 5. `AN` apple a day keeps the doctor away.
 
-6. `AN` orange juice is my favorite breakfast drink.
+6. Orange juice is my favorite breakfast drink. (**CORRECT - NO ARTICLE**)
 
 ## 2.3 Circle the correct demonstrative to complete the sentences.
 
-1. (THESE / THOSE) `THOSE` are my co-workers
+1. (THESE / THOSE) `THOSE` are my co-workers. (**CORRECT - THESE**)
 
-2. (THIS / THAT) `THIS` is my brand-new laptop over there.
+2. (THIS / THAT) `THIS` is my brand-new laptop over there. (**CORRECT - THAT**)
 
 3. (THAT / THESE) `THAT` isn't your room.
 
@@ -78,25 +78,29 @@ Don't you listen to music in your car?
 
 5. (THAT / THESE) `THESE` are my hamsters.
 
-6. (THIS / THAT) `THIST` is my fiancée.
+6. (THIS / THAT) `THIS` is my fiancée.
 
-7. (THESE / THOSE) `THESE` are the new rules on that board.
+7. (THESE / THOSE) `THESE` are the new rules on that board. (**CORRECT - THOSE**)
 
 ## 2.4 Change sentences to plural and use the correct demonstrative.
 
 1. This orange is very nice. <p>
-`These` oranges are very nice.
+`THESE` oranges are very nice. (**CORRECT - THAT**)
 
 2. That student is writing an essay. <p>
-`Those` students are writing an essay.
+`THOSE` students are writing an essay.
 
 3. That house is near the beach. <p>
+`THOSE` houses are near the beach.
 
 4. This book is really difficult. <p>
+`THESE` books are really difficult.
 
 5. This lesson is very difficult. <p>
+`THESE` lessons are very difficult.
 
 6. That computer is old. <p>
+`THOSE` computers are old.
 
 ## 2.5 Form sentences using the words and this, that, these or those.
 
@@ -113,7 +117,7 @@ Don't you listen to music in your car?
 
 5. `THIS` is a storybook.
 
-6. `THIS` is my ice cream.
+6. `THIS` is an ice cream. 
 
 7. `THESE` are cellphones.
 
@@ -121,4 +125,4 @@ Don't you listen to music in your car?
 
 9. `THAT` is my house.
 
-10. `THIS` is a black pen.
+10. `THIS` is a black pen. (**CORRECT - THAT**)
