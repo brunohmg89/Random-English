@@ -138,3 +138,55 @@ She runnies a marathon.
 
 8. We sleep late. (**He**) <p>
 He sleeps late.
+
+## 3.4 - Reorder the words and make positive sentences.
+
+1. every morning wake up I early. <p>
+I wake up early every morning.
+
+2. books read loves She to in her free time. <p>
+She loves read books to her in free time.
+
+3. at a software company in the city He works. <p>
+He works at a company software in the city.
+
+4. soccer playing every weekend enjoy they. <p>
+They enjoy playing soccer every weekend.
+
+5. together as a family always breakfast eat We. <p>
+We eat breakfast always together as a family.
+
+6. and sets rises in in the west The sun the east. <p>
+The sun rises in the west and sets in the east.
+
+7. nap Cats the are active day and during at night. <p>
+The cats are active during day and nap at ninght.
+
+8. explains The teacher the lesson in class to the students. <p>
+The teacher explains the lesson in class to the students.
+
+9. People smartphones for purposes various use. <p>
+People use smartphones for various purposes.
+
+10. every day from station the at 7 am departs the train. <p>
+The train departs from station at 7 am every day.
+
+## 3.5 - Change these statements to negative.
+
+1. I Like pizza. <p>
+I don't like pizza.
+
+2. She has a red bike. <p>
+She don't have a red bike.
+
+3. He plays basketball with his friends. <p>
+He don't play basketball with his friends.
+
+4. They go to the park on Saturdays. <p>
+They don't go to the park on Saturdays.
+
+5. We watch movies on Friday nights. <p>
+We don't watch movies on Friday nigths.
+
+6. The dog chases the ball. <p>
+The dog don't chases the ball.
