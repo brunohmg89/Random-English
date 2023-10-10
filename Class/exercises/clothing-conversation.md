@@ -6,8 +6,10 @@ Describe the clothes you are wearing today. Use as many adjectives as you can.
 
 ## Discussion Questions
 
+### Link de auxilio: https://printdiscuss.com/clothing-conversation-questions/
+
 1. Do you have a favorite item of clothing? What is it? Why do you like it? When do you wear it? <p>
-Yes, i do. My favorite item of clothing is a t-shirt. I like because is beautiful. I wear any place.
+Yes, i do. My favorite item of clothing is a t-shirt. I like `IT` because is beautiful. I wear `IT` any place. <p>
 
 2. What is your favorite color to wear? How many items of clothing do you have in this color? <p>
 My favorite color to wear is red. A lot.
