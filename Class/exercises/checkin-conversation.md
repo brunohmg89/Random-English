@@ -36,32 +36,32 @@
 ## My Version 
 
 ### Reception
-- Good **afternoon, Sir**.
+- Good `afternoon, Sir`.
 
 ### Me
-- Hi, I have a reservation. My name's **Bruno Henrique**.
+- Hi, I have a reservation. My name's `Bruno Henrique`.
 
 ### Reception
-- Can you `SPELL` that, please?
+- Can you spell that, please?
 
 ### Me
-- **H-E-N-R-I-Q-U-E**
+- `H-E-N-R-I-Q-U-E`
 
 ### Reception
-- Can I have your **ID or** passport, please?
+- Can I have your `ID or` passport, please?
 
 ### Me
 - Just a second... Here you are.
 
 ### Reception
-- Thank you. Can you sign here, `PLEASE`? Thank you. <p>
-- Here's your `KEY`. IT's room **510**, on the **fifth** floor. The `LIFT` or **escalator are** over there.
+- Thank you. Can you sign here, please? Thank you. <p>
+- Here's your key. IT's room `510`, on the `fifth` floor. The lift `or escalator are` over there.
 
 ### Me
 - The lift? Oh, the elevator.
 
 ### Reception
-- Yes. Enjoy your stay. **Sir. Henrique**.
+- Yes. Enjoy your stay. `Sir. Henrique`.
 
 ### Me
 - Thank you.
