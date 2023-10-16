@@ -15,16 +15,16 @@ Yes, i do. My favorite item of clothing is a t-shirt. I like `IT` because is bea
 My favorite color to wear is red. A lot.
 
 3. How important is color co-ordination to you? Do your clothes always match? <p>
-Not very many important. Sometimes.
+Not very (~~`MANY`~~) important. Sometimes.
 
 4. Are certain colors more suitable for men and certain colors more suitable for women? <p>
-No, mens and womans can use any colors.
+No, (~~`MENS`~~) `MEN` and (~~`WOMANS`~~) `WOMAN` can use any colors.
 
 5. Do you change your clothes often? Or do you tend to wear the same clothes all day? <p>
 I change my clothes only once per day. Yes, i wear same clothes all day.
 
 6. How often should clothing be washed? How often do you wash your clothing? <p>
-The clothing washed once per week. I wash my clothing twice per week. 
+The clothing `ARE` washed once per week. I wash my clothing twice per week. 
 
 7. What is the traditional clothing of your country? How often do people dress traditionally these days? <p>
 I don't know. 
@@ -39,25 +39,25 @@ The sport team has the best looking uniform is Corinthians. No, i don't.
 I have four pais of shoes. I don't know.
 
 11. Do you wear shoes that make you taller? Why? <p>
-No, i don't. Because, not necessary.
+No, i don't. Because `IT'S` not necessary.
 
 12. How often do you go shopping for clothes? Do you buy new clothes when the season changes? <p>
-I do shopping once every two months. No, i don't only when necessary.
+I (~~`DO`~~) `GO` shopping once every two months. No, i don't only when necessary.
 
 13. Do you buy clothes online? Why or why not? <p>
-Yes, i do. Why i like and for low prices.
+Yes, i do. (~~`WHY`~~) `BECAUSE` i like and for low prices.
 
 14. Where is the best place to shop for clothes in your town? <p>
 The mall near in my house.
 
 15. What do you do with clothes that you no longer wear? <p>
-Yes, i do. I keep for special days.
+Yes, i do. I (~~`KEEP FOR SPECIAL DAYS`~~) donate for people (~~`WITH NECESSITY`~~) `IN NEED`.
 
 16. Will you wear something uncomfortable just because it looks good? <p>
-No, i won't never wearing something uncomfortable.
+No, i (~~`WON'T`~~) `WILL` never (~~`WEARING`~~) `WEAR` something uncomfortable.
 
 17. Which celebrity has the best sense of style? <p>
-All celebrities have your own style.
+All celebrities have (~~`YOUR`~~) `THEIR` own style.
 
 18. Are you interested in fashion? How do you know what is in fashion and what is out of fashion? <p>
 No, i don't. Watching TV.
@@ -66,4 +66,4 @@ No, i don't. Watching TV.
 Yes, because exist any models of clothes with various colors.
 
 20. Have you ever been to a fashion show? If not, would you like to go to one? Why or why not? <p>
-No, i haven't. No, I wouldn't. Why i don't a fashion.
+No, i haven't. No, I wouldn't. (~~`WHY`~~) `BECAUSE` i don't (~~`a`~~) `LIKE` fashion.
